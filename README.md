@@ -1,5 +1,6 @@
 # ProyekMusikKotaBesar
 Pendahuluan
+
 Setiap kali kita melakukan analisis, kita perlu merumuskan beberapa hipotesis yang perlu kita uji lebih lanjut. Terkadang, pengujian yang kita lakukan membawa kita untuk menerima hipotesis tersebut. Namun di lain waktu, kita juga perlu menolaknya. Untuk membuat keputusan yang tepat dalam bisnis, kita harus memahami apakah asumsi yang kita buat sudah tepat atau belum.
 
 Dalam proyek kali ini, kamu akan membandingkan preferensi musik dari pendengar di kota Springfield dan Shelbyville. Kamu akan meninjau data sungguhan dari Y.Music untuk menguji beberapa hipotesis di bawah ini dan membandingkan perilaku pengguna pada kedua kota.
